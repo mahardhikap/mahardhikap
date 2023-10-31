@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahardhikap&theme=dark&hide_border=true)](https://git.io/streak-stats)
+I'm Mahardhika Putra Pratama, a PERN STACK DEVELOPER (PostgreSQL ExpressJS ReactJS NodeJS). Currently I'm on my private project and still learning to the new technologies.
 <!--
 **mahardhikap/mahardhikap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
