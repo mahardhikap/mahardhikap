@@ -1,7 +1,11 @@
 ### Hi there 👋
 I'm Mahardhika Putra Pratama, a FULL STACK DEVELOPER (PostgreSQL, ExpressJS, ReactJS, NodeJS, React Native). Currently I'm on my private project and still learning to the new technologies.
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:putrad578@gmail.com)
+Business: 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahardhikapratama.business@gmail.com)
+
+
+Social Media: 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahardhika300617)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahardhikapratama)
 [![github](https://img.shields.io/badge/Github-232b2b?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/mahardhikap)
