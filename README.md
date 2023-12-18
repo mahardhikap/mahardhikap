@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Mahardhika Putra Pratama, a FULL STACK DEVELOPER (PostgreSQL, ExpressJS, ReactJS, NodeJS, React Native). Currently I'm on my private project and still learning to the new technologies.
+I'm Mahardhika Putra Pratama, a FULL STACK DEVELOPER (HTML, CSS, ReactJS, NextJS, PostgreSQL, NodeJS, ExpressJS, Tailwind, Bootstrap, Javascript). Currently I'm on my private project and still learning to the new technologies.
 
 Business: 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahardhikapratama.business@gmail.com)
